@@ -12,4 +12,8 @@ Marc Shapiro et al. - [A Comprehensive Study of Convergent and Commutative Repli
 
 ## Related Blog Posts
 
+## Related Books
+
+[Davey and Priestly, Introduction to Lattices and Order](https://www.amazon.com/Introduction-Lattices-Order-B-Davey/dp/0521784514/ref=sr_1_1?ie=UTF8&qid=1529245541&sr=8-1&keywords=order+theory)  
+
 ## Related Links
