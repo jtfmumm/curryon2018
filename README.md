@@ -10,6 +10,8 @@ Slides: ...
 
 Marc Shapiro et al. - [A Comprehensive Study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/document)  
 
+Pat Helland - [Consistently Eventual](https://queue.acm.org/detail.cfm?id=3226077) ("For many data items, the work never settles on a value.")
+
 ## Related Blog Posts
 
 ## Related Books
