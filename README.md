@@ -8,11 +8,17 @@ Slides: ...
 
 ## Related Papers
 
-Marc Shapiro et al. - [A Comprehensive Study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/document)  
+Marc Shapiro et al. (2011) - [A Comprehensive Study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/document) 
 
-Pat Helland - [Consistently Eventual](https://queue.acm.org/detail.cfm?id=3226077) ("For many data items, the work never settles on a value.")
+Martin Kleppmann and Alastair R. Beresford (2017) - [A Conflict-Free Replicated JSON Datatype](https://arxiv.org/pdf/1608.03960.pdf)
+
+Paulo S´ergio Almeida, Ali Shoker, and Carlos Baquero (2016) - [Delta State Replicated Data Types](https://arxiv.org/pdf/1603.01529.pdf)
+
+Pat Helland (2018) - [Consistently Eventual](https://queue.acm.org/detail.cfm?id=3226077) ("For many data items, the work never settles on a value.")
 
 ## Related Blog Posts
+
+John Mumm (2015) - [A CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 
 ## Related Books
 
