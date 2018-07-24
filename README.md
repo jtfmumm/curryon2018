@@ -14,7 +14,7 @@ Nuno Preguic et al. (2018) - [Conflict-free Replicated Data Types](https://arxiv
 
 Martin Kleppmann and Alastair R. Beresford (2017) - [A Conflict-Free Replicated JSON Datatype](https://arxiv.org/pdf/1608.03960.pdf)
 
-Paulo S´ergio Almeida, Ali Shoker, and Carlos Baquero (2016) - [Delta State Replicated Data Types](https://arxiv.org/pdf/1603.01529.pdf)
+Paulo Almeida et al. (2016) - [Delta State Replicated Data Types](https://arxiv.org/pdf/1603.01529.pdf)
 
 Pat Helland (2018) - [Consistently Eventual](https://queue.acm.org/detail.cfm?id=3226077) - \["For many data items, the work never settles on a value."\]
 
